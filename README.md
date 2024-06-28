@@ -1,4 +1,4 @@
-<h1>SchedyeSync AKA ClassScheduler</h1>
+<h1>ClassScheduler</h1>
 
  ### [YouTube Demonstration](link) (To Be Made)
 
