@@ -1,6 +1,6 @@
 <h1>ClassScheduler</h1>
 
- ### [YouTube Demonstration](link) (To Be Made)
+ ### [YouTube Demonstration](https://www.youtube.com/watch?v=pT0d-gzryME)
 
 <h2>Description</h2>
 <b>ClassScheduler</b> is a Python-based application designed to simplify the process of managing and synchronizing academic schedules with Google Calendar. This tool leverages the Google Calendar API to allow students to automatically add their class schedules to their Google Calendar, ensuring they stay organized and never miss a class.
